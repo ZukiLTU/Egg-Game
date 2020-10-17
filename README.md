@@ -1,6 +1,6 @@
 # Egg-Game
 
-__**Goal of the game**__
-Catch as many eggs as you ca, simple as that.
+__**Goal of the game : **__
+Catch as many eggs as you can, simple as that.
 
 Download soon, with sourcecode.
